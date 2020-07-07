@@ -1,0 +1,14 @@
+  # Start
+
+    print("--------------------------------------------------------")
+    print("welcome user,")
+    print("you are about to embark on a journey that will decide the fate of all of those around you and the 9 realms.")
+    print("first you must sighn the following contract if you want to embark on this most crucail journey.")
+    print("I the user here by am willing and fully ready to begin this journey an will dedicate my mind and energy to this game")
+    name = input("sighn name here ")
+   print("------------------------------------------") 
+   print("It is done")
+   print("------------------------------------------")
+   print("------------------------------------------")
+   if looop== awakening:
+   
